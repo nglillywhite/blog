@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 3e37440c-fe47-4ff3-8643-9280bbf49b8c
+      url: 'https://quartopub.com/sites/nglillywhite/nicks-blog'
+- execute:
+    freeze: auto

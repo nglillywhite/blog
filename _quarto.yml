@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Nick's Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/nglillywhite
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nicholas-lillywhite-67b67993/
+format:
+  html:
+    theme: morph
+    css: styles.css
+
+
+

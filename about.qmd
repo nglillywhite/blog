@@ -1,0 +1,22 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicholas-lillywhite-67b67993/
+    - icon: github
+      text: Github
+      href: https://github.com/nglillywhite
+
+---
+
+Hey I'm Nick,
+
+I'm a budding Data Practitioner and ML Engineer, thanks for visiting my blog. I'd love to get feedback on any of my writing or if you'd like to get in touch with me, please email nglillywhite@gmail or message my **[LinkedIn](https://www.linkedin.com/in/nicholas-lillywhite-67b67993/)**.
+
+If you have any requests or ideas you'd like to hear my thoughts on, please let me know! I did write a single blog post on medium at [my profile](https://medium.com/@nglillywhite) a while ago but I don't think I'll use the platform going forward as its not as flexible as notebooks and fastpages.
+
+If I'm not doing data, you'll probably find me surfing, cooking, reading.

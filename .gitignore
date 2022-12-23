@@ -1,0 +1,5 @@
+/.quarto/
+_site/*
+data/*
+.idea/*
+*.ipynb_checkpoints*
