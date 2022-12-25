@@ -12,7 +12,7 @@ website:
         href: https://www.linkedin.com/in/nicholas-lillywhite-67b67993/
 format:
   html:
-    theme: morph
+    theme: Zephyr
     css: styles.css
 
 

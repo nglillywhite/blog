@@ -1,3 +1,3 @@
-<center><h1>Warning</h1></center>
+<center><h1>Welcome</h1></center>
 
-Do not manually save images into this folder. This is used by GitHub Actions to automatically copy images.  Any images you save into this folder could be deleted at build time.
+This is the source code to all my blog posts over at <a href=https://nglillywhite.quarto.pub/nicks-blog/> my blog</a>, feel free to read them in their rendered glory there.
