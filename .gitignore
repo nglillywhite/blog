@@ -3,3 +3,5 @@ _site/*
 data/*
 .idea/*
 *.ipynb_checkpoints*
+posts/outputs/*
+posts/tmp/*
