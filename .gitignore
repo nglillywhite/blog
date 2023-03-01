@@ -5,3 +5,6 @@ data/*
 *.ipynb_checkpoints*
 posts/outputs/*
 posts/tmp/*
+posts/paddy-disease-classification*
+posts/*csv
+posts/kernel*
